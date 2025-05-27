@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_r0_report"
+        android:icon="@drawable/ic_report"
+        android:title="@string/r0_report" />
+    <item
+        android:id="@+id/navigation_truck_tracking"
+        android:icon="@drawable/ic_truck"
+        android:title="@string/truck_tracking" />
+    <item
+        android:id="@+id/navigation_daily_report"
+        android:icon="@drawable/ic_daily"
+        android:title="@string/daily_report" />
+    <item
+        android:id="@+id/navigation_activity_report"
+        android:icon="@drawable/ic_activity"
+        android:title="@string/activity_report" />
+</menu> 
